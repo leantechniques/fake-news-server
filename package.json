@@ -1,17 +1,17 @@
 {
-  "name": "fake-news-server",
-  "version": "0.0.0",
-  "private": true,
-  "scripts": {
-    "start": "nodemon app.js"
-  },
-  "dependencies": {
-    "axios": "^0.21.1",
-    "chance": "^1.1.7",
-    "cors": "^2.8.5",
-    "express": "~4.16.1"
-  },
-  "devDependencies": {
-    "nodemon": "^2.0.12"
-  }
+    "name": "fake-news-server",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "nodemon app.js"
+    },
+    "dependencies": {
+        "axios": "^0.21.1",
+        "chance": "^1.1.7",
+        "cors": "^2.8.5",
+        "express": "~4.16.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.12"
+    }
 }
